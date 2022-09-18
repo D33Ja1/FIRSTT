@@ -123,7 +123,15 @@ body {
 
   background: url(introf.jpg) no-repeat center / cover;
 }
-.button {
+.company {
+  color: rgb(222, 255, 155);
+
+  font-size: 20px;
+}
+.v5v5 {
+  color: rgb(237, 255, 200);
+}
+.playButton {
   background-color: rgb(162 0 13);
   border: none;
   font-size: 20px;
@@ -133,7 +141,7 @@ body {
 
   border-radius: 4px;
 }
-.button:hover {
+.playButton:hover {
   cursor: pointer;
 }
 @import url("http://fonts.cdnfonts.com/css/valorant");
